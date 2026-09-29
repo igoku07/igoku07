@@ -12,7 +12,7 @@ Além da programação, tenho explorado diferentes áreas da tecnologia, especia
 Acredito que a evolução profissional vai além do domínio técnico. Meus interesses por música, jogos e atividades criativas também fazem parte da minha maneira de pensar, aprender e encarar desafios.
 
 ___
-# Deseja se conectar comigo? clique [aqui](linkedin.com/in/igor-dias-7355773b3)
+# Deseja se conectar comigo? clique [aqui](https://linkedin.com/in/igor-dias-7355773b3)
 <!--
 **igoku07/igoku07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

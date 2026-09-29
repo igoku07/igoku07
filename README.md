@@ -13,8 +13,16 @@
 ___
 
 
-## 🛠️ Tecnologias e ferramentas
+### 🛠️ Tecnologias e ferramentas
 [![My Skills](https://skillicons.dev/icons?i=c,java,git,github,vscode)](https://skillicons.dev)
+
+
+### 📚 Atualmente estudando
+
+- Estruturas de Dados e Algoritmos
+- Programação Orientada a Objetos
+- Computação Grafica
+- Criptografia RSA
 
 ---
 
